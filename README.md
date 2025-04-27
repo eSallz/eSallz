@@ -4,9 +4,9 @@
 
 Actually, I'm a _student_, but not in a educational instituition.
 ## I'm learning:
-- ˋPythonˋ
-- ˋHTML and CSSˋ;
-- ˋFrameworks (like _Django_ and _Flask_);
+- **Python**
+- **HTML and CSS**;
+- **Frameworks (like _Django_ and _Flask_)**;
 
 ## My Skiils:
 
