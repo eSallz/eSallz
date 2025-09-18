@@ -1,36 +1,35 @@
 ## Hello!
 
-### My name is Lucas, I'm 25y old and have a mid-level technical certification in industrial automation.
+### My name is Lucas, I'm 25 years old and I have a mid-level technical certification in Industrial Automation.
 
-Actually, I'm a _student_, but not in a educational instituition.
-## I'm learning:
+Actually, I'm a _student_, but not in an educational institution.
+
+## I'm Learning:
 - **Python**
-- **HTML and CSS**;
-- **Frameworks (like _Django_ and mainly streamlit)**;
+- **HTML and CSS**
+- **Frameworks** (like _Django_ and mainly Streamlit)
 
-## My Skiils:
+## My Skills:
 
-| Skill    | Level |
-|----------|-------|
-| Pyhton   | Intermediate|
-| HTML / CSS | beginner|
-| Industrial Automation | mid-level Technician |
+| Skill                  | Level                |
+|------------------------|----------------------|
+| Python                 | Intermediate         |
+| HTML / CSS             | Beginner             |
+| Industrial Automation  | Mid-level Technician |
 
 ## Projects:
 
-- [✓] Web Automation
-- [✓] Billing schedule app in Streamlit (under dev)
-- [✓] Financial Indicators in Streamlit (under dev)
-
+- [x] Web Automation
+- [x] Billing Schedule App in Streamlit (under development)
+- [x] Financial Indicators in Streamlit (under development)
 
 ## Goals:
-- [✓] industrial Automation Technician
-- [✓] Create a little app in python
+- [x] Industrial Automation Technician
+- [x] Create a small app in Python
 - [ ] Learn Streamlit completely
 - [ ] Learn JavaScript
-- [ ] Learn Artifical Intelligence
+- [ ] Learn Artificial Intelligence
 - [ ] Learn Docker
-- [ ] Create an app that make money
+- [ ] Create an app that makes money
 
-> Everyday is a good day to live!
-> 
+> Every day is a good day to live!
